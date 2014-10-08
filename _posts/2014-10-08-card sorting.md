@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Farewell GitHub, Hello Immersive Computing
+title: card sorting
 ---
 
 {{ page.title }}
